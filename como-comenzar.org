@@ -1,0 +1,24 @@
+* ¡Hola, bienvenid@!
+
+Este grupo es el grupo de *fabricación de piezas con impresoras 3D* de Murcia para ayudar a mejorar la *situación provocada por el COVID2019*.
+
+El objetivo de este grupo es únicamente *gestionar y producir*, desde Murcia, los *diseños ya definidos* por las diferentes comunidades de diseño :
+Quiero recalcar, *este no es un grupo de diseño*, si ese es tu objetivo, te invitamos a participar en los grupos ya mencionados.
+
+Somos una *comunidad de “makers”* que se dedica únicamente a aspectos relacionados con la *producción de piezas*. Por ello se entiende que aquí se trabaja sobre:
+
+1) La *correcta calibración* de las impresoras 3D para realizar las piezas
+2) El estudio y análisis de los *correctos parámetros* de impresión 3D
+3) La fabricación de *pruebas*, prototipos y análisis del resultado
+4) La gestión, organización y realización de la producción de piezas en Madrid
+5) La gestión, organización y realización del envío de dichas piezas desde Madrid
+6) Todo lo que englobe la *producción* de las piezas ya diseñadas.
+
+
+Para que te conozcamos mejor, y sepamos tu compromiso necesitamos que *rellenes este* [[https://docs.google.com/forms/d/e/1FAIpQLSf61ID2K9VSmNf1a9W9TMDRwG1YCDjMdqMf97cG5hbZQQwnDQ/viewform][formulario]] de bienvenida. 
+
+Ahora que ya formas parte del grupo, y que te quieres *implicar* en esta acción solidaria, el siguiente paso es calibrar las tolerancias de tu impresora 3D realizando el *test de expansión horizontal*. Te adjuntamos el [[https://www.thingiverse.com/thing:1662342][link]]  donde describe el proceso, si necesitas ayuda, consulta en el grupo). 
+
+Una vez hayas realizado este calibrado, registra tu impresora 3D en el siguiente [[https://docs.google.com/forms/d/e/1FAIpQLSerVjJfGW3r1tngLypiSdN2e7t7OgAhIvLXUfa5zcjhNMB1Gw/viewform][formulario]].
+
+ 
